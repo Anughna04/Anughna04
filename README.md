@@ -1,14 +1,13 @@
 ## Hi there 👋 Iam Anughna Kandimalla
 
-<!--
-**Anughna04/Anughna04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on projects based on AI & ML,chatbot development
+
 - 🌱 I’m currently learning deep learning models,NLP
+  
 - 💬 Ask me about Data Analysis,EDA,Machine learning
+
 - 📫 How to reach me: anughnakandimalla11@gmail.com
+ 
 - ⚡ Fun fact: The only thing I train more than ML models is my patience! 😂
 
 Tools and Techologies:
