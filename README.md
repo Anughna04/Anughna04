@@ -11,5 +11,6 @@
 ⚡ Fun fact: The only thing I train more than ML models is my patience! 😂
 
 Tools and Techologies:
-android  aws  c  canvasjs  chartjs  cplusplus  d3js  django  docker  figma  flask  gcp  git  html5  java  javascript  jenkins  kubernetes linux  matlab  mongodb  mssql  mysql  nodejs  opencv  oracle  pandas  php  postgresql  postman  python  pytorch  react  reactnative  scikit_learn  seaborn sqlite  tensorflow  typescript  unity
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
